@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 520 520">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#gradient_1);
+      }
+
+      .st1 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .st2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 26.9px;
+      }
+    </style>
+    <linearGradient id="gradient_1" data-name="gradient_1" x1="42.5" y1="502.6" x2="469.6" y2="26.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e844a6"/>
+      <stop offset="0" stop-color="#e244aa"/>
+      <stop offset=".2" stop-color="#d247b5"/>
+      <stop offset=".3" stop-color="#b74bc8"/>
+      <stop offset=".4" stop-color="#9250e2"/>
+      <stop offset=".5" stop-color="#7655f7"/>
+      <stop offset=".5" stop-color="#7556f7"/>
+      <stop offset=".6" stop-color="#637af7"/>
+      <stop offset=".8" stop-color="#5694f7"/>
+      <stop offset=".9" stop-color="#4ea4f7"/>
+      <stop offset="1" stop-color="#4caaf7"/>
+    </linearGradient>
+    <filter id="drop-shadow-1" x="88.9" y="89.9" width="336" height="353" filterUnits="userSpaceOnUse">
+      <feOffset dx="2.7" dy="2.7"/>
+      <feGaussianBlur result="blur" stdDeviation="5.4"/>
+      <feFlood flood-color="#000" flood-opacity=".4"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="st0" width="520" height="520" rx="114.6" ry="114.6"/>
+  <g>
+    <path class="st2" d="M346.4,413.8c-3.8-53.6-24.4-102.5-56.4-141.7"/>
+    <path class="st2" d="M294.2,413.8c-3.2-35.7-15.8-68.8-35.3-96.6"/>
+    <path class="st2" d="M400.1,413.8c-3.9-66.2-28.8-126.7-68.2-175"/>
+    <line class="st2" x1="115.9" y1="422.7" x2="115.9" y2="97.3"/>
+    <line class="st2" x1="169.6" y1="252.3" x2="169.6" y2="97.3"/>
+    <line class="st2" x1="221.5" y1="191.6" x2="221.5" y2="97.3"/>
+    <g class="st1">
+      <path class="st2" d="M404.1,116.9c-160.7,9.5-288.1,142.8-288.1,305.9"/>
+      <path class="st2" d="M404.1,170.6c-131.1,9.4-234.5,118.7-234.5,252.2"/>
+      <path class="st2" d="M404.1,222.7c-102.3,9.3-182.5,95.3-182.5,200"/>
+    </g>
+  </g>
+</svg>
