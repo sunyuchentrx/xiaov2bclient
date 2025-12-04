@@ -1,10 +1,11 @@
 name: Build All Platforms
 
 on:
-  push:
-    branches: [ "main", "master" ]
-  pull_request:
-    branches: [ "main", "master" ]
+  # 已禁用自动编译，如需编译请在GitHub Actions页面手动触发
+  # push:
+  #   branches: [ "main", "master" ]
+  # pull_request:
+  #   branches: [ "main", "master" ]
   workflow_dispatch:
 
 jobs:
