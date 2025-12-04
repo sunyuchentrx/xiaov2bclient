@@ -17,7 +17,6 @@
 - ✅ Linux
 - ✅ Android
 - ✅ iOS
-- ✅ Web
 
 ## 🚀 主要功能
 
@@ -25,7 +24,7 @@
 - 用户登录/注册
 - 订阅管理
 - 节点选择与切换
-- 流量监控
+- 流量记录
 - 订阅套餐购买
 - 邀请码系统
 - 工单系统
@@ -170,8 +169,8 @@ lib/
 
 本项目由[Antigravity操盘手孙宇晨开发](https://t.me/sunyuchentrx)
 感谢[胖~](https://t.me/panghu_code) 的开源项目提供的API
-项目交流群： [胖虎妙妙屋](https://t.me/panghu_dev)
-机场主都在看的频道：[机场观察](https://t.me/jichangguancha)
+🚀项目交流群： [胖虎妙妙屋](https://t.me/panghu_dev)
+🚀机场主都在看的频道：[机场观察](https://t.me/jichangguancha)
 
 
 ## 📄 许可证
